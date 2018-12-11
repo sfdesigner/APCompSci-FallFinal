@@ -4,7 +4,6 @@ public class Main {
 
     public static Scanner sc;
 
-
     public static void main(String[] args) {
 
         boolean inputLoop = true;
